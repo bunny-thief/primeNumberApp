@@ -22,7 +22,7 @@ git clone git@github.com:bunny-thief/primeNumbers.git
 cd into the project directory.
 
 ```
-cd primeNumbers
+cd primeNumberApp
 ```
 
 Then run the install command to save it to the local repository. 
